@@ -89,6 +89,9 @@ sequenceDiagram
 
    **ตอบ:** ระดับสูงสุด 6280 Kbps → เกณฑ์ 50% คือ 3140 Kbps ซึ่งตกอยู่ระหว่างการทดลองที่ 3 (RSSI -65 dBm, 5210 Kbps) และการทดลองที่ 4 (RSSI -77 dBm, 2840 Kbps) การประมาณค่าเชิงเส้นระหว่างสองจุดนี้ให้ Threshold RSSI ≈ **-75 ถึง -76 dBm**
 
+
+<img width="710" height="401" alt="image" src="https://github.com/user-attachments/assets/aac77cd9-c4fb-4f34-b21a-9d1bb5987018" />
+
 ---
 
 ## 7. คำถามท้ายการทดลอง (Post-Lab Questions)
