@@ -73,7 +73,7 @@ xSemaphoreGive(mutex)           xSemaphoreGive(mutex)
 
 ## 5. ซอร์สโค้ดการทดลอง (`main/main.c`)
 
-ดูใน `ESP32_Project/Lab6-4-IoT-Sensor-Dashboard/main/main.c`
+ดูใน `codes/Lab6-4-IoT-Sensor-Dashboard/main/main.c`
 
 ---
 
